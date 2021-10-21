@@ -1,0 +1,24 @@
+{
+  "name": "Connecting-and-using-AWS-DynamoDB-remotely-with-NodeJS",
+  "version": "1.0.0",
+  "description": "How to connect DynamoDB remotely from Node.js application and perform a few operations like INSERT and GET.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramishacp/Connecting-and-using-AWS-DynamoDB-remotely-with-NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pramishacp/Connecting-and-using-AWS-DynamoDB-remotely-with-NodeJS/issues"
+  },
+  "homepage": "https://github.com/pramishacp/Connecting-and-using-AWS-DynamoDB-remotely-with-NodeJS#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1012.0",
+    "dotenv": "^10.0.0"
+  }
+}
