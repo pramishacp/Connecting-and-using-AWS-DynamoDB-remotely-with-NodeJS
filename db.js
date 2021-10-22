@@ -1,3 +1,5 @@
+require('dotenv').config()
+
 // Load the AWS SDK for JS
 var AWS = require("aws-sdk");
 
